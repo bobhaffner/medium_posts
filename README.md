@@ -14,6 +14,13 @@
 [code](https://github.com/bobhaffner/medium_posts/tree/master/folium_legend)
 
 
+## [Folium MarkerClusters and FastMarkerClusters](https://medium.com/@bobhaffner/folium-markerclusters-and-fastmarkerclusters-1e03b01cb7b1)
+
+[code](https://github.com/bobhaffner/medium_posts/tree/master/folium_markerclusters)
+
+## [Folium lines with arrows](https://medium.com/@bobhaffner/folium-lines-with-arrows-25a0fe88e4e)
+
+[code](https://github.com/bobhaffner/medium_posts/tree/master/folium_lines)
 
 
 ## [Reverse Geocoding](https://medium.com/@bobhaffner/reverse-geocoding-4be0542fdc35)
